@@ -1,0 +1,31 @@
+number,date,time,most_ordered_dish,category,price
+1,2023-06-01,18:30,Hummus,Meze,8.99
+2,2023-06-01,19:15,Lamb Kebab,Main,16.99
+3,2023-06-01,20:00,Tzatziki,Meze,7.99
+4,2023-06-02,18:45,Chicken Souvlaki,Main,15.99
+5,2023-06-02,19:30,Baba Ghanoush,Meze,8.99
+6,2023-06-02,20:15,Moussaka,Main,17.99
+7,2023-06-03,18:30,Spanakopita,Meze,9.99
+8,2023-06-03,19:15,Greek Salad,Meze,7.99
+9,2023-06-03,20:00,Lamb Chops,Main,19.99
+10,2023-06-04,18:45,Falafel,Meze,8.99
+11,2023-06-04,19:30,Seafood Paella,Main,21.99
+12,2023-06-04,20:15,Taramasalata,Meze,7.99
+13,2023-06-05,18:30,Gyros,Main,14.99
+14,2023-06-05,19:15,Tabbouleh,Meze,7.99
+15,2023-06-05,20:00,Beef Stifado,Main,18.99
+16,2023-06-06,18:45,Tirokafteri,Meze,8.99
+17,2023-06-06,19:30,Chicken Gyro,Main,15.99
+18,2023-06-06,20:15,Dolmades,Meze,7.99
+19,2023-06-07,18:30,Keftedes,Meze,9.99
+20,2023-06-07,19:15,Grilled Salmon,Main,20.99
+21,2023-06-07,20:00,Stuffed Peppers,Meze,8.99
+22,2023-06-08,18:45,Lobster Pasta,Main,23.99
+23,2023-06-08,19:30,Feta Cheese,Meze,7.99
+24,2023-06-08,20:15,Lamb Shank,Main,22.99
+25,2023-06-09,18:30,Tzatziki,Meze,7.99
+26,2023-06-09,19:15,Pork Souvlaki,Main,16.99
+27,2023-06-09,20:00,Stuffed Vine Leaves,Meze,8.99
+28,2023-06-10,18:45,Halloumi Salad,Meze,7.99
+29,2023-06-10,19:30,Beef Moussaka,Main,17.99
+30,2023-06-10,20:15,Shrimp Saganaki,Meze,10.99
